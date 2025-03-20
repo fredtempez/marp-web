@@ -3,9 +3,9 @@
 [![web.marp.app](https://bit.ly/2RF9Nzn)](https://web.marp.app/)
 [![LICENSE](https://img.shields.io/github/license/marp-team/marp-web.svg?style=flat-square)](./LICENSE)
 
-A web interface of Marp.
+A web interface of Marp with <script> and <iframe> filters.
 
-### :warning: Currently Marp Web is inactive.
+### :warning: Disncontinued by marp Team by modified and published with the kind permission of its author.
 
 <!--
 > https://web.marp.app/ is a tech demo. In future, we migrate to React app based on our [marp-react](https://github.com/marp-team/marp-react).
